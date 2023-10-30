@@ -1,3 +1,4 @@
+hanum
 # Persegi Calculator
 
 Persegi Calculator adalah sebuah kelas Java yang dirancang untuk menghitung keliling persegi berdasarkan panjang sisi yang diberikan. README ini memberikan gambaran umum tentang kelas tersebut, instruksi cara menggunakannya, informasi penting, dan contoh penggunaannya.
